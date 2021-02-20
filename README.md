@@ -2,4 +2,4 @@
 
 ## Play
 
-https://hvzy.github.io/morse-code-translator/
+https://hadi-mirza.github.io/morse-code-translator/
